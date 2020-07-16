@@ -1,0 +1,12 @@
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/bin/Debug/netcoreapp3.1/introductiontocsharp.deps.json
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/bin/Debug/netcoreapp3.1/introductiontocsharp.runtimeconfig.json
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/bin/Debug/netcoreapp3.1/introductiontocsharp.runtimeconfig.dev.json
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/bin/Debug/netcoreapp3.1/introductiontocsharp.dll
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/bin/Debug/netcoreapp3.1/introductiontocsharp.pdb
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/obj/Debug/netcoreapp3.1/introductiontocsharp.csprojAssemblyReference.cache
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/obj/Debug/netcoreapp3.1/introductiontocsharp.AssemblyInfoInputs.cache
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/obj/Debug/netcoreapp3.1/introductiontocsharp.AssemblyInfo.cs
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/obj/Debug/netcoreapp3.1/introductiontocsharp.csproj.CoreCompileInputs.cache
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/obj/Debug/netcoreapp3.1/introductiontocsharp.dll
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/obj/Debug/netcoreapp3.1/introductiontocsharp.pdb
+/Users/deanna.vickers/Projects/introductiontocsharp/introductiontocsharp/obj/Debug/netcoreapp3.1/introductiontocsharp.genruntimeconfig.cache
